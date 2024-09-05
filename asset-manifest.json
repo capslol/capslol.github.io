@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d2d1377.css",
-    "main.js": "/static/js/main.ab8ff527.js",
+    "main.js": "/static/js/main.039e214b.js",
     "static/media/AI-GOD-2-layer.gif": "/static/media/AI-GOD-2-layer.8cf8dd9dbc4594f9b7de.gif",
     "static/media/Inspiration-boost-effect.gif": "/static/media/Inspiration-boost-effect.7f14d91fee42e5081bb5.gif",
     "static/media/AI-GOD-1-layer.gif": "/static/media/AI-GOD-1-layer.b34d296c4a7c37e45a57.gif",
@@ -23,33 +23,33 @@
     "static/media/avatar-frame.svg": "/static/media/avatar-frame.bbfda8fcd81788df61352f781b33998d.svg",
     "static/media/frens-icon.svg": "/static/media/frens-icon.f36c0663d076a3fac27cd19fa6724404.svg",
     "static/media/faq-icon.svg": "/static/media/faq-icon.c32eac33ad049e64eb2feb3ed2a40b71.svg",
-    "static/media/copy-link-icon.svg": "/static/media/copy-link-icon.34dc9f6ed5c776d6de7ac37880201094.svg",
+    "static/media/copy-link-icon.svg": "/static/media/copy-link-icon.20208c8edffb90123f47f2868e06148e.svg",
     "static/media/mining-coin-icon.svg": "/static/media/mining-coin-icon.d058d6e8fe0ec684167e2ea083a9213c.svg",
     "static/media/wallet-icon.svg": "/static/media/wallet-icon.1bffac30572fcecaec96d275258c3536.svg",
     "static/media/home-icon.svg": "/static/media/home-icon.533d9c959db1f946ee68028219a8d4d9.svg",
     "static/media/lang-icon.svg": "/static/media/lang-icon.3a0e7724334a8c0299dc76d3b9e8ce7a.svg",
     "static/media/inspiration-boost-icon.svg": "/static/media/inspiration-boost-icon.6bdafbfae097d0a455eca0fd3b028251.svg",
     "static/media/AI-question-icon.svg": "/static/media/AI-question-icon.9c9b9e6edd90d9012d6806f207f5d423.svg",
-    "static/media/telegram-line.svg": "/static/media/telegram-line.1b578dc7d8016f4a063a31a67b1d2ddf.svg",
+    "static/media/telegram-line.svg": "/static/media/telegram-line.3973b7dc927e60abe3c63442c4850bb6.svg",
     "static/media/rebirth-boost.svg": "/static/media/rebirth-boost.3fe74188b655903e6da5fc04aae49197.svg",
     "static/media/close-popup-icon.svg": "/static/media/close-popup-icon.6f0eb792eae91c3758d8c65e12a87ace.svg",
     "static/media/tasks-icon.svg": "/static/media/tasks-icon.a984ba41457ce90bcaee76d135c3ab48.svg",
     "index.html": "/index.html",
-    "static/media/green-logo.svg": "/static/media/green-logo.7feb4d0ec10186f0d56b984942b8f7f0.svg",
+    "static/media/green-logo.svg": "/static/media/green-logo.1633a5e49bedf02f6b8fd98d72e33473.svg",
     "static/media/arrow_left.svg": "/static/media/arrow_left.bdb8abc49071cc7df85ed592d713be11.svg",
     "static/media/buttonFigure.svg": "/static/media/buttonFigure.36e296ace92e161b0ddb7441fb45ef57.svg",
-    "static/media/login-box-line.svg": "/static/media/login-box-line.88ac32dfdd429576684e19eaa5b125f6.svg",
+    "static/media/login-box-line.svg": "/static/media/login-box-line.677c3ea0976d7addbca7b8eb9b7a3385.svg",
     "static/media/arrow_right.svg": "/static/media/arrow_right.bb73f78085b55173fc53ae081f4decad.svg",
     "static/media/rank-icon.svg": "/static/media/rank-icon.9b9d45bfb2daeadd921854fcbae05721.svg",
     "static/media/leader-icon.svg": "/static/media/leader-icon.91b4229a3fd62ac806f7fa2149de96ae.svg",
     "static/media/timer-icon.svg": "/static/media/timer-icon.420d969425e1984d10ad217f0bcceb0f.svg",
-    "static/media/arrow-back-icon.svg": "/static/media/arrow-back-icon.9de33a27c78c000404d358d723ec9479.svg",
-    "static/media/arrow-next-icon.svg": "/static/media/arrow-next-icon.8e967c06fe11d7d72ae224dbd82ef9e2.svg",
+    "static/media/arrow-back-icon.svg": "/static/media/arrow-back-icon.2d16a20b4b7d2b527bd83b0dca4fdbbb.svg",
+    "static/media/arrow-next-icon.svg": "/static/media/arrow-next-icon.f09b5d80bb10d878a8b63eaac4c1c175.svg",
     "main.8d2d1377.css.map": "/static/css/main.8d2d1377.css.map",
-    "main.ab8ff527.js.map": "/static/js/main.ab8ff527.js.map"
+    "main.039e214b.js.map": "/static/js/main.039e214b.js.map"
   },
   "entrypoints": [
     "static/css/main.8d2d1377.css",
-    "static/js/main.ab8ff527.js"
+    "static/js/main.039e214b.js"
   ]
 }
