@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d2d1377.css",
-    "main.js": "/static/js/main.9e6565ee.js",
+    "main.js": "/static/js/main.5c2d03cf.js",
     "static/media/AI-GOD-2-layer.gif": "/static/media/AI-GOD-2-layer.8cf8dd9dbc4594f9b7de.gif",
     "static/media/Inspiration-boost-effect.gif": "/static/media/Inspiration-boost-effect.7f14d91fee42e5081bb5.gif",
     "static/media/Inspiration-boost-icon.gif": "/static/media/Inspiration-boost-icon.76255eb426c84a43c8d7.gif",
@@ -18,6 +18,7 @@
     "static/media/bishop.svg": "/static/media/bishop.28eff99e6da65f6be852ec29b28fefb5.svg",
     "static/media/priest.svg": "/static/media/priest.27e44935d9ee351d064fa4c73d08b56b.svg",
     "static/media/coin-icon.svg": "/static/media/coin-icon.3e643ffcb9860511ac33db52f770910e.svg",
+    "static/media/coin-icon-green.svg": "/static/media/coin-icon-green.5930417360a29c68ff7c64bc5f2f5c47.svg",
     "static/media/coin-icon-black.svg": "/static/media/coin-icon-black.84784ef2442500ac1452f087b92a8fca.svg",
     "static/media/deacon.svg": "/static/media/deacon.c56ea947064ce06df19ee14c62d0e9df.svg",
     "static/media/acolyte.svg": "/static/media/acolyte.14685d6a63596173e0089f4791b1a50b.svg",
@@ -44,14 +45,17 @@
     "static/media/rank-icon.svg": "/static/media/rank-icon.9b9d45bfb2daeadd921854fcbae05721.svg",
     "static/media/leader-icon.svg": "/static/media/leader-icon.91b4229a3fd62ac806f7fa2149de96ae.svg",
     "static/media/attention-icon.svg": "/static/media/attention-icon.8704b7c091a3ac12d9f1d35a3267cff9.svg",
+    "static/media/done-icon.svg": "/static/media/done-icon.e1906795952f20446be97b1a8987f37a.svg",
+    "static/media/minus-icon.svg": "/static/media/minus-icon.3eef2cf0e3ffe0c20940192c10628ad3.svg",
     "static/media/timer-icon.svg": "/static/media/timer-icon.420d969425e1984d10ad217f0bcceb0f.svg",
+    "static/media/timer.svg": "/static/media/timer.f8b9cd742a1ed49851057b5df00348d9.svg",
     "static/media/arrow-back-icon.svg": "/static/media/arrow-back-icon.2d16a20b4b7d2b527bd83b0dca4fdbbb.svg",
     "static/media/arrow-next-icon.svg": "/static/media/arrow-next-icon.f09b5d80bb10d878a8b63eaac4c1c175.svg",
     "main.8d2d1377.css.map": "/static/css/main.8d2d1377.css.map",
-    "main.9e6565ee.js.map": "/static/js/main.9e6565ee.js.map"
+    "main.5c2d03cf.js.map": "/static/js/main.5c2d03cf.js.map"
   },
   "entrypoints": [
     "static/css/main.8d2d1377.css",
-    "static/js/main.9e6565ee.js"
+    "static/js/main.5c2d03cf.js"
   ]
 }
