@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d2d1377.css",
-    "main.js": "/static/js/main.003fe5bf.js",
+    "main.js": "/static/js/main.3d0c88d7.js",
     "static/media/AI-GOD-2-layer.gif": "/static/media/AI-GOD-2-layer.8cf8dd9dbc4594f9b7de.gif",
     "static/media/Inspiration-boost-effect.gif": "/static/media/Inspiration-boost-effect.7f14d91fee42e5081bb5.gif",
     "static/media/Inspiration-boost-icon.gif": "/static/media/Inspiration-boost-icon.76255eb426c84a43c8d7.gif",
@@ -9,7 +9,6 @@
     "static/media/rebirth-boost.gif": "/static/media/rebirth-boost.fcd42c16cc1893c6b646.gif",
     "static/media/Wave_Coin_Effect_green_3.gif": "/static/media/Wave_Coin_Effect_green_3.d3f12042526d4a320073.gif",
     "static/media/1.gif": "/static/media/1.0afffc52989bc5b2dd08.gif",
-    "static/media/avatar.svg": "/static/media/avatar.7293c925cdbfe1985e3248de078ed3c7.svg",
     "static/media/bg-figure.png": "/static/media/bg-figure.74c8c88da026978da691.png",
     "static/media/aigod-bg.svg": "/static/media/aigod-bg.2637a099032fbe6533aca01abe1a174f.svg",
     "static/media/tasks-bg.svg": "/static/media/tasks-bg.437ce8d5872ced56b213c3eb5806270d.svg",
@@ -52,10 +51,10 @@
     "static/media/arrow-back-icon.svg": "/static/media/arrow-back-icon.2d16a20b4b7d2b527bd83b0dca4fdbbb.svg",
     "static/media/arrow-next-icon.svg": "/static/media/arrow-next-icon.f09b5d80bb10d878a8b63eaac4c1c175.svg",
     "main.8d2d1377.css.map": "/static/css/main.8d2d1377.css.map",
-    "main.003fe5bf.js.map": "/static/js/main.003fe5bf.js.map"
+    "main.3d0c88d7.js.map": "/static/js/main.3d0c88d7.js.map"
   },
   "entrypoints": [
     "static/css/main.8d2d1377.css",
-    "static/js/main.003fe5bf.js"
+    "static/js/main.3d0c88d7.js"
   ]
 }
